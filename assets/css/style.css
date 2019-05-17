@@ -19,3 +19,20 @@ img {
     background-color: white;
     margin-right: 100px;
 }
+.cont1 {
+  background-color: darkslategray;
+  margin-top: 3%;
+}
+#port {
+  padding: 5px;
+  padding-bottom: 30px;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.row2 {
+  padding: 15px;
+}
